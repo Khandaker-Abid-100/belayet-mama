@@ -4,7 +4,7 @@ export default function Footer() {
       <a href="#hero" className="font-display text-[17px] text-white font-normal">
         Belayet <span className="italic text-[var(--gold2)]">Hossain</span>
       </a>
-      <p className="text-[12px] text-white/35">© 2025 Belayet Hossain. All rights reserved.</p>
+      <p className="text-[12px] text-white/35">© 2026 Belayet Hossain. All rights reserved.</p>
       <div className="flex gap-5">
         {[
           { label: 'BD Sourcing', href: 'https://www.bdsourcing.net' },

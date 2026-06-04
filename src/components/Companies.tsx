@@ -94,7 +94,7 @@ const modalData: Record<string, {
       { label: 'Factory Address', val: 'Bhabanipur, Gazipur Sadar, Gazipur, Bangladesh', href: '#', type: 'map' },
       { label: 'Inquiries via BD Sourcing', val: 'belayet@bdsourcing.net', href: 'mailto:belayet@bdsourcing.net', type: 'mail' },
     ],
-    cta: { label: 'Send a Manufacturing Inquiry', href: '#contact' },
+     cta: { label: 'Visit SRKH Design Website', href: 'https://www.bdsourcing.net' },
   },
 }
 
